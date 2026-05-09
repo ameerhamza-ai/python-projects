@@ -1,5 +1,5 @@
 # ================================
-#     AMEER'S CALCULATOR 🧮
+#     AMEER'S CALCULATOR 
 #     Day 6 — #150DaysOfAI
 # ================================
 
