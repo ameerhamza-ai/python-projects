@@ -4,8 +4,8 @@
 > **#150DaysOfAI** challenge.
 > From basics to advanced — one project at a time.
 
-**Developer:** Ameer Hamza
-**University:** KUST — BS Artificial Intelligence
+**Developer:** Ameer Hamza  
+**University:** KUST — BS Artificial Intelligence  
 **Daily Practice:** [150-days-of-ai](https://github.com/ameerhamza-ai/150-days-of-ai)
 
 ## Connect
