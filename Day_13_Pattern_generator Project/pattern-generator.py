@@ -21,7 +21,7 @@ def number_triangle(n):
             print(j, end=" ")
         print()
 
-            # New Pattern Added
+# New Pattern Added
 def same_number_triangle(n):
     for i in range(1, n + 1):
         print((str(i) + " ") * i)
