@@ -6,10 +6,8 @@
 
 **Developer:** Ameer Hamza  
 **University:** KUST — BS Artificial Intelligence  
-**Daily Practice:** [150-days-of-ai](https://github.com/ameerhamza-ai/150-days-of-ai)
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
+**Daily Practice:** [150-days-of-ai](https://github.com/ameerhamza-ai/150-days-of-ai)  
+**LinkedIn:** [ameerhamzaai](https://linkedin.com/in/ameerhamzaai)
 
 ---
 
