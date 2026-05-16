@@ -17,7 +17,7 @@
 |---|---------|------|----------|--------|
 | 1 | [Calculator App](#-1-calculator-app) | Week 1 | Conditionals, Input/Output, Formatting | ✅ Done |
 | 2 | [Pattern Generator](#-2-pattern-generator) | Week 2 | Nested Loops, Functions, While Loop | ✅ Done |
-| 3 | Quiz Game | Week 3 | Lists, Functions, Conditionals | Coming |
+| 3 | [Quiz Game](#-3-Quiz-Game) | Week 3 | Lists, Functions, Conditionals | ✅ Done |
 | 4 | Student Grade Manager | Week 4 | Lists, Dictionaries, File Handling | Coming |
 
 ---
@@ -41,7 +41,6 @@ python-projects/
 ## More Coming Soon!
 
 Following the **#150DaysOfAI** roadmap:
-- Week 3 → Quiz Game
 - Week 4 → Student Grade Manager
 - Month 2 → OOP Projects
 - Month 5 → ML Capstone
