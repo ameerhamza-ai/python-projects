@@ -24,12 +24,12 @@ Weeks 1-3 concepts of #150DaysOfAI challenge.
 - Scope & Variables
 
 ## Grading System
-| Score | Grade | Remark |
-|-------|-------|--------|
-| 9-10 | A+ | Outstanding |
-| 7-8 | A | Great Job |
-| 5-6 | B | Good Effort |
-| 0-4 | C | Need Practice |
+| Score | Grade | Remark | Rewards |
+|-------|-------|--------|-------- |
+| 9-10 | A+ | Outstanding | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ |
+| 7-8 | A | Great Job | ⭐⭐⭐⭐⭐⭐⭐⭐ |
+| 5-6 | B | Good Effort | ⭐⭐⭐⭐⭐⭐ |
+| 0-4 | C | Need Practice | ⭐ |
 
 ## How to Run
 ```bash
