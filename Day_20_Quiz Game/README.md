@@ -37,6 +37,7 @@ python quiz_game.py
 ```
 
 ## Sample Output
+```
 =============================================
       Welcome to the Python Quiz!       
 =============================================
@@ -70,6 +71,7 @@ Current Score: 1/1
   Grade           : A+ (Outstanding)
   Stars Earned    : ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 =============================================
+```
 
 ## Concepts Used
 `functions` `dictionaries` `lists` `loops`
