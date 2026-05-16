@@ -37,14 +37,14 @@ python quiz_game.py
 ```
 
 ## Sample Output
-```
 =============================================
-      Welcome to the Python Quiz!
+      Welcome to the Python Quiz!       
 =============================================
-  Rules:
+   Rules:
   → Total Questions: 10
   → Every question carries 1 mark.
   → No negative marking.
+  → Invalid input = asked again!
 =============================================
 
 Press [Enter] to start the challenge...
@@ -55,18 +55,21 @@ Q1: What does def mean in Python?
   C) Delete a function
   D) Debug code
 
-Your answer (A/B/C/D): B
+Your answer (A/B/C/D): b
 Correct!
 Current Score: 1/1
+---------------------------------------------
 
 ...
 
-=========================
-     Quiz Complete!
-     Your Score: 8/10
-     Grade: A (Great Job)
-=========================
-```
+=============================================
+           Quiz Complete!            
+=============================================
+           Your Score: 10/10
+  Percentage      : 100.0%
+  Grade           : A+ (Outstanding)
+  Stars Earned    : ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+=============================================
 
 ## Concepts Used
 `functions` `dictionaries` `lists` `loops`
