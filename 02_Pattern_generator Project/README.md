@@ -1,14 +1,14 @@
-# 🔷 Pattern Generator
+# Pattern Generator
 
 > Day 13 of #150DaysOfAI — Week 2 Project
 
-## 📋 About
+## About
 A menu-driven Python pattern generator
 that prints 8 different shapes with
 user-controlled size and full input
 validation.
 
-## ✨ Features
+## Features
 - 8 pattern types in one program
 - User controls size dynamically
 - Menu-driven system with while loop
@@ -16,7 +16,7 @@ validation.
 - Error handling for invalid inputs
 - Clean formatted output
 
-## 🗂️ Patterns Available
+## Patterns Available
 | # | Pattern | Type |
 |---|---------|------|
 | 1 | Right Triangle | ⭐ Basic |
@@ -28,18 +28,18 @@ validation.
 | 7 | Hollow Square | ⭐⭐ Medium |
 | 8 | Exit | — |
 
-## 🛠️ Concepts Used
+## Concepts Used
 `nested for loops` `while loop`
 `functions` `if/elif/else`
 `try/except` `string multiplication`
 `input validation` `continue`
 
-## ▶️ How to Run
+## How to Run
 ```bash
 python pattern_generator.py
 ```
 
-## 📸 Sample Output
+## Sample Output
 ```
 --- Pattern Generator Menu ---
 1. Right Triangle
@@ -66,7 +66,7 @@ Result:
     *
 ```
 
-## 🏆 Highlights
+## Highlights
 - Diamond pattern uses function calling
   (pyramid() called inside diamond())
 - Error handling prevents crashes
@@ -74,7 +74,7 @@ Result:
 - Same Number Triangle added as
   bonus pattern beyond original plan
 
-## 🔗 Part of #150DaysOfAI
+## Part of #150DaysOfAI
 - Daily practice: [150-days-of-ai](https://github.com/ameerhamza-ai/150-days-of-ai)
 - All projects: [python-projects](https://github.com/ameerhamza-ai/python-projects)
 - LinkedIn: [ameerhamzaai](https://linkedin.com/in/ameerhamzaai)
