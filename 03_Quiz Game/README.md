@@ -8,10 +8,13 @@ A command-line Python quiz game with
 Weeks 1-3 concepts of #150DaysOfAI challenge.
 
 ## Features
-- 10 Python questions (MCQ format)
+- 10 Python MCQ questions
 - Live score tracking after each question
 - 4 options per question (A/B/C/D)
-- Input validation (.strip().upper())
+- While loop for input validation
+- Lambda function for grading
+- Recursion for star display
+- Percentage calculation
 - Grading system (A+ to C)
 - Clean formatted UI
 
@@ -74,7 +77,8 @@ Current Score: 1/1
 ```
 
 ## Concepts Used
-`functions` `dictionaries` `lists` `loops`
+`functions` `lambda` `recursion`
+`dictionaries` `lists` `while loop`
 `enumerate()` `f-strings` `conditionals`
 `input validation` `.strip()` `.upper()`
 
