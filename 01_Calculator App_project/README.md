@@ -2,21 +2,21 @@
 
 > Day 6 of #150DaysOfAI — Week 1 Project
 
-## 📋 About
+## About
 A command-line Python calculator
 with 7 operations, error handling,
 and clean formatted output — the
 first complete project of the
 #150DaysOfAI challenge.
 
-## ✨ Features
+## Features
 - 7 arithmetic operations
 - Division by zero error handling
 - Clean formatted output
 - User-friendly menu system
 - 2 decimal place precision
 
-## 🗂️ Operations
+## Operations
 | # | Operation | Symbol |
 |---|-----------|--------|
 | 1 | Addition | + |
@@ -27,21 +27,21 @@ first complete project of the
 | 6 | Modulus | % |
 | 7 | Power | ** |
 
-## 🛠️ Concepts Used
+## Concepts Used
 `if/elif/else` `functions`
 `user input` `type casting`
 `f-strings` `:.2f formatting`
 `error handling`
 
-## ▶️ How to Run
+## How to Run
 ```bash
 python calculator.py
 ```
 
-## 📸 Sample Output
+## Sample Output
 ```
 ========================================
-       AMEER'S CALCULATOR 🧮
+       AMEER'S CALCULATOR 
        Day 6 — #150DaysOfAI
 ========================================
 Enter first number  : 10
@@ -64,13 +64,13 @@ Built with Python | #150DaysOfAI
 ========================================
 ```
 
-## ⚠️ Error Handling
+## Error Handling
 ```
 Division by 0:
-"Error: Cannot divide by 0! ❌"
+"Error: Cannot divide by 0!"
 
 Invalid choice:
-"Invalid choice! ❌"
+"Invalid choice!"
 ```
 
 ## 🔗 Part of #150DaysOfAI
