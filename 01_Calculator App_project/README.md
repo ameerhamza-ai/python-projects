@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+# Calculator App
 
 > Day 6 of #150DaysOfAI — Week 1 Project
 
