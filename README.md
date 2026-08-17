@@ -18,7 +18,7 @@
 | 1 | [Calculator App](#-1-calculator-app) | Week 1 | Conditionals, Input/Output, Formatting | ✅ Done |
 | 2 | [Pattern Generator](#-2-pattern-generator) | Week 2 | Nested Loops, Functions, While Loop | ✅ Done |
 | 3 | [Quiz Game](#-3-Quiz-Game) | Week 3 | Lists, Functions, Conditionals | ✅ Done |
-| 4 | Student Grade Manager | Week 4 | Lists, Dictionaries, File Handling | Coming |
+| 4 | [Student Grade Manger](#-4-Student-Grade-Manger) | Week 4 | Dictionary, Lists, Functions, Conditionals | ✅ Done |
 
 ---
 
